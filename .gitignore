@@ -1,2 +1,8 @@
-/node_modules
+node_modules/
 .env
+# Ignore logs
+logs
+*.log
+
+# Ignore npm-debug.log files
+npm-debug.log*
